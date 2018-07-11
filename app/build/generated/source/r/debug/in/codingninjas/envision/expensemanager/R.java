@@ -3187,7 +3187,7 @@ public final class R {
     public static final int activity_settings=0x7f09001e;
     public static final int activity_show_details=0x7f09001f;
     public static final int add_expense_dialog_layout=0x7f090020;
-    public static final int expense_row_layout=0x7f090021;
+    public static final int expense_row1_layout=0x7f090021;
     public static final int header_item_layout=0x7f090022;
     public static final int notification_action=0x7f090023;
     public static final int notification_action_tombstone=0x7f090024;

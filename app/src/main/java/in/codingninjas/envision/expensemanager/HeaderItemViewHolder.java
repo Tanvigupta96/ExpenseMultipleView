@@ -11,4 +11,5 @@ public  class HeaderItemViewHolder {
         this.headerTitleTextView = headerTitleTextView;
     }
 
+
 }

@@ -852,7 +852,7 @@ int layout activity_main 0x7f09001d
 int layout activity_settings 0x7f09001e
 int layout activity_show_details 0x7f09001f
 int layout add_expense_dialog_layout 0x7f090020
-int layout expense_row_layout 0x7f090021
+int layout expense_row1_layout 0x7f090021
 int layout header_item_layout 0x7f090022
 int layout notification_action 0x7f090023
 int layout notification_action_tombstone 0x7f090024

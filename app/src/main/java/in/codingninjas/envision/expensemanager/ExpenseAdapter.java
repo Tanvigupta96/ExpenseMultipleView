@@ -11,7 +11,6 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 import java.util.ArrayList;
-import java.util.List;
 
 public class ExpenseAdapter extends ArrayAdapter {
 
@@ -46,7 +45,7 @@ public class ExpenseAdapter extends ArrayAdapter {
         if(output == null){
             inflateCount++;
             Log.d("ExpenseAdapter","Inflate Count:" + inflateCount);
-            output = inflater.inflate(R.layout.expense_row_layout,parent,false);
+            output = inflater.inflate(R.layout.expense_row1_layout,parent,false);
             TextView nameTextView = output.findViewById(R.id.expenseName);
             TextView amountTextView = output.findViewById(R.id.expenseAmount);
             TextView dateTextView = output.findViewById(R.id.expenseDate);
